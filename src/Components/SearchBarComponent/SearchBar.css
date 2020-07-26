@@ -1,0 +1,27 @@
+.SearchBarContainer {
+    margin: auto;
+    margin: 20px;
+}
+
+.MuiGrid-root div{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.search-box{
+    display:flex;
+    width: 70%;
+    margin:0 auto;
+}
+
+.searchBar{
+    margin: 30px 0;
+    height:30px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.search-btn{
+    padding:0 5px;
+    margin: 33px 0;
+}
